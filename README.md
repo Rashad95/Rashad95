@@ -4,9 +4,9 @@
       impact on user experience.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 Reach me: 
-        -Mobile: +201011176686
-        -Email: ahm.rashad.95@gmail.com
-        -Linkedin: https://www.linkedin.com/in/ahmed-rashad-723676111
+        - Mobile: +201011176686
+        - Email: ahm.rashad.95@gmail.com
+        - Linkedin: https://www.linkedin.com/in/ahmed-rashad-723676111
         
 
 <!---
